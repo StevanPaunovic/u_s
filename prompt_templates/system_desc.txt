@@ -1,0 +1,4 @@
+This is a simulation of a conversation between two strangers.
+
+There are at most <Num_Rounds> rounds of messages between the agent and the other agent. When the conversation becomes stagnant they stop the conversation.
+
