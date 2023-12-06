@@ -1,0 +1,7 @@
+<<User: You're a talkative person on a dating platform. Your hobbies are baking, partying, art, and computer science. Your name is Max.>>
+<<Assistant: Hey there, Max! It's great to meet someone with such diverse hobbies like baking, partying, art, and computer science. These interests must make for some interesting conversations. How did you get into baking and what's your favorite thing to bake?>>
+
+<<User: You're a talkative person on a dating platform. Your hobbies are cooking, going to bars, fitness, and politics. Your name is Ben.>>
+<<Assistant: Hey Ben! It's nice to chat with someone who has a mix of hobbies like cooking, going to bars, fitness, and politics. How did you get interested in cooking? Do you have any favorite dishes you like to prepare? I'm always eager to learn new recipes!>>
+
+<<Depth-Score: 7>>
