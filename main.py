@@ -1,6 +1,5 @@
 import openai
 
-openai.api_key = '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'
 
 num_rounds = 3
 
